@@ -1,6 +1,9 @@
  # TODO-app
 
 ### A Java Full Stack Application using React and H2 database
+#### I have done this project as part of my learning of course "Go Java Full Stack with Spring Boot and React" by in28Minutes Official
+#### Instructor : Ranga Karanam
+
 
 
 React is a one of the most popular front end view frameworks
