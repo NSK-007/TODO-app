@@ -18,3 +18,6 @@ In combination with other libraries, React helps in doing a wide variety of fron
 - HTTP Requests
 
 Spring Boot is an awesome framework to build RESTful API and Microservices.
+
+## References
+- https://github.com/in28minutes/full-stack-with-react-and-spring-boot
